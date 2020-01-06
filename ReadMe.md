@@ -20,5 +20,5 @@
 #### Sample - 1
 This is the final UI which er a
 <div>
-  <img src="./screenshots/KinRe_Digital-Menu-2.png" width="25%" style="text-align:middle">
+  <img src="./screenshots/KinRe_Digital-Menu-2.png" width="25%" style="text-align:middle" align="middle">
 </div>
