@@ -2,8 +2,8 @@
 ### Preview
 
 ###### Sample - 1
-<img src="./screenshots/31.png" width="259px" height="527px" style="display:inline;">
-<img src="./screenshots/32.png" width="259px" height="527px" style="display:inline;">
+<img src="./screenshots/31.png" width="25%" style="text-align:left">
+<img src="./screenshots/32.png" width="25%" align="middle">
 <img src="./screenshots/33.png" width="259px" height="527px" style="display:inline;">
 <img src="./screenshots/34.png" width="259px" height="527px" style="display:inline;">
 ###### Sample - 2
